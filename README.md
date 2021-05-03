@@ -11,3 +11,8 @@ conversion and then it will log the error if it still fails.
 * Create a `.env` file at root directory and enter the credentials shared by me privately.
 * Run `npm install`
 * Run `npm run start`
+
+### Note
+* I have used the free version of [Exchange Rates API](https://manage.exchangeratesapi.io/) and there is a chance that it has already used the free API requests. 
+Please try to generate a new `API_ACCESS_KEY` from [here](https://manage.exchangeratesapi.io/) if the previous one is not working. 
+And then replace the key in `.env` file.
