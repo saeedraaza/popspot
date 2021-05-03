@@ -1,0 +1,17 @@
+{
+  "name": "popspot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "saeedraza.work@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
